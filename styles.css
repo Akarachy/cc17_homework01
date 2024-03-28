@@ -1,0 +1,30 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    justify-content: flex-start;
+}
+
+.table-education {
+    background-color: white;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.table-education td, .table-education th {
+    border: 2px solid darkgrey;
+}
+
+.frame {
+    margin: 10px;
+    width: 400px;
+    height: 450x;
+    border: 2px solid darkgrey;
+    
+  }
+  .inside {
+    margin:30px;
+  }
+
